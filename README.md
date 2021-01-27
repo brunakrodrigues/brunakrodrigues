@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Bruna's GitHub Banner](./assets/images/GitHubHeader.png)](https://brunakrodrigu.es)
+[![Bruna's GitHub Banner](./assets/images/GitHubHeader.jpg)](https://brunakrodrigu.es)
 <!--
 **brunakrodrigues/brunakrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
