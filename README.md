@@ -18,6 +18,7 @@ I’m Bruna, a student from ESPM and full-stack engineer, creative coder and I'm
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/brunakrodrigues/Vacina-ubs">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=vacina-ubs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11223a" />
@@ -30,7 +31,7 @@ I’m Bruna, a student from ESPM and full-stack engineer, creative coder and I'm
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakrodrigues&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11223a" />
 </a>
-<br>
+
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=brunakrodrigues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=11223a" alt="Martin's GitHub Stats" />
 </a>
