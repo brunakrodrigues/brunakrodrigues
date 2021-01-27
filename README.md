@@ -1,5 +1,15 @@
-### Hi there 👋
+
 [![Bruna's GitHub Banner](./assets/images/GitHubHeader.jpg)](https://brunakrodrigu.es)
+
+Hey there 👋
+
+I’m Bruna, a student from ESPM and full-stack engineer, creative coder and I'm interested in designer who specializes in front-end development. 
+
+- 🔭 I’m currently working on Khipo
+- 🌱 I’m currently learning React and React Native
+- 📚 Academic: I was a student of scientific initiation
+- 📫 How to reach me: brunakjrodrigues@gmail.com
+- ⚡ Fun fact: I Like to play Valorant, I love dogs and I have passion for music
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brunacrodrigues/)
 
@@ -27,17 +37,11 @@
 
 <br>
 <br>
-<!--
-**brunakrodrigues/brunakrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
