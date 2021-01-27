@@ -46,3 +46,4 @@ I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=4AB197)
