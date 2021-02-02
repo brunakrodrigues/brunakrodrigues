@@ -14,11 +14,11 @@ I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brunacrodrigues/)
 
 <a href="https://github.com/brunakrodrigues/Jogo-Lixo-ao-Alvo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=jogo-lixo-ao-alvo&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
+  <img align="center" style="margin:0.5rem height:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=jogo-lixo-ao-alvo&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
 </a>
 
 <a href="https://github.com/brunakrodrigues/Vacina-ubs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=vacina-ubs&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
+  <img align="center" style="margin:0.5rem height:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=vacina-ubs&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
