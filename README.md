@@ -17,6 +17,8 @@ I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'
   <img align="center" style="margin:0.5rem height:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=jogo-lixo-ao-alvo&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
 </a>
 
+<br>
+
 <a href="https://github.com/brunakrodrigues/Vacina-ubs">
   <img align="center" style="margin:0.5rem height:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=brunakrodrigues&repo=vacina-ubs&title_color=ffffff&text_color=c9cacc&icon_color=F4FDB1&bg_color=11223a" />
 </a>
