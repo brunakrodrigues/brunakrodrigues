@@ -41,9 +41,9 @@ I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=4AB197)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
