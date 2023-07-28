@@ -3,7 +3,7 @@
 
 Hey there 👋
 
-I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'm interested in designer who specializes in front-end development. 
+I’m Bruna full stack developer and tech lead on Khipo, a studied at ESPM and full-stack developer at PUCRS, creative coder and I'm interested in designer who specializes in front-end development. 
 
 - 🔭 I’m currently working on Khipo
 - 🌱 I’m currently learning React and React Native
