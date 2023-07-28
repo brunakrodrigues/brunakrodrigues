@@ -32,10 +32,6 @@ I’m Bruna, a student from ESPM and full-stack developer, creative coder and I'
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakrodrigues&hide=html,css&title_color=BBBAFF&text_color=F7F7F7&icon_color=FFC2E2&bg_color=11223a" />
 </a>
 
-<a href="https://github.com/brunakrodrigues">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=brunakrodrigues&show_icons=true&line_height=27&count_private=true&title_color=BBBAFF&text_color=F7F7F7&icon_color=F4FDB1&bg_color=11223a" alt="Martin's GitHub Stats" />
-</a>
-
 <br>
 <br>
 
